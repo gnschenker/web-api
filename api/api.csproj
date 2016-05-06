@@ -92,6 +92,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Dockerfile" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
